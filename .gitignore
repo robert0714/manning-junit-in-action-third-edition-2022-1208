@@ -70,4 +70,5 @@ target
 *.iws
 .gradle
 cch13-continuous/
+*/**/.LCKpom.xml~
 
